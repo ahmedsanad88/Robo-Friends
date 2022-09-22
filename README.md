@@ -1,10 +1,42 @@
-# Getting Started with Create React App
+# RoboFriends 👾
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GitHub](https://img.shields.io/github/license/ahmedsanad88/TechHome-landing-page)
+
+A simple page to show and search between your robots friends 👾 using ReactJS.
+
+> Additional Links:
+>
+> > [robot images used!👾](https://robohash.org)
+> >
+> > [Users data used!🌐](https://jsonplaceholder.typicode.com)
+
+# Table of contents🗂
+
+- [RoboFriends 👾](#robofriends-)
+- [Table of contents🗂](#table-of-contents)
+- [Installation⚙️](#installation️)
+  - [Available Scripts](#available-scripts)
+    - [`npm install`](#npm-install)
+    - [`npm start`](#npm-start)
+    - [`npm test`](#npm-test)
+    - [`npm run build`](#npm-run-build)
+    - [`npm run eject`](#npm-run-eject)
+- [All dependencies](#all-dependencies)
+- [Development🛠](#development)
+- [Contribute🤝](#contribute)
+- [License🧾](#license)
+- [Footer💐](#footer)
+- [Author❤️](#author️)
+
+# Installation⚙️
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Will install all required dependencies to run the project.
 
 ### `npm start`
 
@@ -39,32 +71,48 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+[(Back to top)](#table-of-contents)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# All dependencies
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```javascript
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "tachyons": "^4.12.0",
+    "web-vitals": "^2.1.4"
+  }
+```
 
-### Code Splitting
+[(Back to top)](#table-of-contents)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# Development🛠
 
-### Analyzing the Bundle Size
+> Project is used a basic structure that can be used as a fundamental structure for advanced one.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+[(Back to top)](#table-of-contents)
 
-### Making a Progressive Web App
+# Contribute🤝
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Pull requests are welcome.
 
-### Advanced Configuration
+[(Back to top)](#table-of-contents)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# License🧾
 
-### Deployment
+[MIT](https://choosealicense.com/licenses/mit/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+[(Back to top)](#table-of-contents)
 
-### `npm run build` fails to minify
+# Footer💐
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Leave a star on GitHub, give a clap on Medium and share this guide if you found this helpful.
+
+[(Back to top)](#table-of-contents)
+
+# Author❤️
+
+`Ahmed Sanad`
+
+[(Back to top)](#table-of-contents)
